@@ -13,6 +13,11 @@ aiogram
 PyQt
 
 Directions:
+
 -Ai
+
+
 -Web
+
+
 -Desktop
