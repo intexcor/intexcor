@@ -21,3 +21,7 @@ Directions:
 
 
 -Desktop
+
+
+For donations:
+https://pay.cloudtips.ru/p/315e026f
